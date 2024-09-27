@@ -1,0 +1,19 @@
+{
+  "name": "bmi-tracker",
+  "version": "1.0.0",
+  "description": "tracks bmi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shetty-11/BMI-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shetty-11/BMI-tracker/issues"
+  },
+  "homepage": "https://github.com/Shetty-11/BMI-tracker#readme"
+}
